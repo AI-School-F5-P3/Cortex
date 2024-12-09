@@ -32,6 +32,10 @@ Este repositorio contiene todos los archivos necesarios para el desarrollo del s
 - **`📁 NOTEBOOKS/`:** Archivos Jupyter Notebook que documentan el análisis de datos y el entrenamiento de modelos.
 - **`📄 requirements.txt`:** Lista de dependencias necesarias para el entorno.
 
+## **Asi fue la organizaciòn del proyecto:**
+
+https://trello.com/b/jMP33NYw/mi-tablero-de-trello
+
 ## **📄 Echale un vistazo al articulo en Medium:**
 
 https://medium.com/@damaliamzn/c%C3%B3mo-mejor%C3%A9-mi-modelo-de-machine-learning-y-por-qu%C3%A9-necesitas-aprender-a-programar-para-hacerlo-2926a351d5e8
