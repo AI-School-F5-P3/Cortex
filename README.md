@@ -20,7 +20,18 @@ Con el desarrollo de este modelo, se busca:
 - **Optimizar recursos**: La empresa podrá dirigir sus esfuerzos de marketing de manera más eficiente, enfocándose en los clientes con mayor potencial de conversión o retención. 💼
 - **Aumentar la rentabilidad**: Al tener un enfoque más dirigido y personalizado, las estrategias de marketing y servicio al cliente serán más efectivas, lo que contribuirá al aumento de ingresos y reducción de costos operativos. 💵
 
+## **📂 Estructura del Proyecto
 
-## **Echale un vistazo al articulo en Medium:**
+Este repositorio contiene todos los archivos necesarios para el desarrollo del sistema de predicción de categorías de clientes en una empresa de telecomunicaciones. A continuación, se describe la estructura del proyecto:
+
+- **`📁 API/`:** Contiene el backend desarrollado con FastAPI, incluyendo el modelo, el escalador y el PCA en formato `.pkl`.
+- **`📁 CSV/`:** Incluye los archivos de datos originales, escalados y procesados.
+- **`📁 DOCS/`:** Contiene documentos clave como informes, briefing y la presentación de negocio.
+- **`📁 FRONT/`:** Contiene la implementación del frontend con Streamlit y las configuraciones relacionadas.
+- **`📁 MODELS/`:** Almacena los modelos entrenados con mejor rendimiento en varios formatos.
+- **`📁 NOTEBOOKS/`:** Archivos Jupyter Notebook que documentan el análisis de datos y el entrenamiento de modelos.
+- **`📄 requirements.txt`:** Lista de dependencias necesarias para el entorno.
+
+## **📄 Echale un vistazo al articulo en Medium:**
 
 https://medium.com/@damaliamzn/c%C3%B3mo-mejor%C3%A9-mi-modelo-de-machine-learning-y-por-qu%C3%A9-necesitas-aprender-a-programar-para-hacerlo-2926a351d5e8
